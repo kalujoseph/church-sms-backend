@@ -1,5 +1,6 @@
 {
   "name": "church-sms-backend",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "description": "Church Management SaaS Backend"
 }
